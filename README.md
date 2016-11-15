@@ -9,7 +9,7 @@ The movie review data set (http://www.cs.cornell.edu/people/pabo/movie-review-da
 Tools used to complete this project include Python, numpy, pandas, sklearn, matplotlib
 
 ## Data Pipeline 
-1. Positive and negative tect reviews were loaded into separate data frames 
+1. Positive and negative text reviews were loaded into separate data frames 
 2. A column called "PositiveSentiment" was added, which was 0 for negative reviews and 1 for positive reviews, this was the target Y variable  
 3. Both data frames were appended to form a consilidated set of positive and negative reviews with their classification as 0/1 (neg/pos)
 4. The data set was split into a training and test data set in order to cross validate models and evaluate model performance 
