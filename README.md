@@ -24,9 +24,9 @@ Tools used to complete this project include Python, numpy, pandas, sklearn, matp
 - NaiveBayes Classifier 
 3. The models were tested on three metrics , accuracy, precision and recall. For all three metrics the LogisticRegression model performed best followed by the Naive Bayes Model. Sample results are included below 
 
-MODEL               ACCURACY PRECISION    RECALL
-Random Forest         0.68    0.66   0.70
-Logistic Regression   0.80    0.78    0.82 - LogisticRegression model performs best
-Decision Tree         0.63    0.62    0.62
-SVM                   0.48    0.48    0.48
-Naive Bayes           0.78    0.79    0.75 - Naive Bayes model performs second best
+'MODEL               ACCURACY PRECISION    RECALL'
+'Random Forest         0.68    0.66   0.70'
+'Logistic Regression   0.80    0.78    0.82 - LogisticRegression model performs best'
+'Decision Tree         0.63    0.62    0.62'
+'SVM                   0.48    0.48    0.48'
+'Naive Bayes           0.78    0.79    0.75 - Naive Bayes model performs second best'
